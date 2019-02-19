@@ -1,0 +1,18 @@
+lzxi4s4luuNLEPZU
+
+/usr/local/octave/3.8.0/bin/octave-3.8.0
+PS1('>>')
+
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+== Regularized Linear Regression Cost Function |  25 /  25 | Nice work!
+==      Regularized Linear Regression Gradient |  25 /  25 | Nice work!
+==                              Learning Curve |  20 /  20 | Nice work!
+==                  Polynomial Feature Mapping |  10 /  10 | Nice work!
+==                            Validation Curve |  20 /  20 | Nice work!
+==                                   --------------------------------
+==                                             | 100 / 100 | 
+== 
+
+>>datestr(clock())
+ans = 16-Feb-2019 22:27:53
